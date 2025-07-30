@@ -15,14 +15,14 @@ const About = () => {
           <div>
             <h3 className="text-3xl font-bold text-primary mb-6">The Origin Story</h3>
             <p className="text-lg text-foreground mb-6 leading-relaxed">
-              In the frozen depths of the crypto winter, PENGJEW emerged as a beacon of hope. 
-              Born from the community's desire for something fresh, authentic, and genuinely fun, 
-              PENGJEW represents the perfect fusion of meme culture and serious blockchain innovation.
+              XX XXX XXXXXX XXXXXX XX XXX XXXXXX XXXXXX, XXXXXXX XXXXXXX XX X XXXXXX XX XXXX. 
+              XXXX XXXX XXX XXXXXXXXXX XXXXXX XXX XXXXXXXXX XXXXX, XXXXXXXXX, XXX XXXXXXXXX XXX, 
+              XXXXXXX XXXXXXXXXX XXX XXXXXXX XXXXXX XX XXXX XXXXXXX XXX XXXXXXX XXXXXXXXXX XXXXXXXXXX.
             </p>
             <p className="text-lg text-foreground mb-6 leading-relaxed">
-              Our mission is simple: create a sustainable ecosystem where holders can thrive, 
-              laugh, and build lasting wealth together. We believe in transparency, community governance, 
-              and the power of collective penguin energy.
+              XXX XXXXXXX XX XXXXXX: XXXXXX X XXXXXXXXXXX XXXXXXXXX XXXXX XXXXXXX XXX XXXXXX, 
+              XXXXX, XXX XXXXX XXXXXXX XXXXXX XXXXXXXX. XX XXXXXXX XX XXXXXXXXXXXX, XXXXXXXXX XXXXXXXXXX, 
+              XXX XXX XXXXX XX XXXXXXXXXX XXXXXXX XXXXXX.
             </p>
           </div>
 
@@ -30,20 +30,36 @@ const About = () => {
             <h4 className="text-2xl font-bold text-primary mb-6">Why PENGJEW?</h4>
             <div className="space-y-4">
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-accent rounded-full mt-3 flex-shrink-0"></div>
-                <p className="text-foreground">Community-driven development and decision making</p>
+                <img 
+                  src="/Star Of David.png" 
+                  alt="Star" 
+                  className="w-3 h-3 object-contain mt-2 flex-shrink-0"
+                />
+                <p className="text-foreground">XXXXXXXXX-XXXXXX XXXXXXXXXXX XXX XXXXXXXX XXXXXX</p>
               </div>
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-accent rounded-full mt-3 flex-shrink-0"></div>
-                <p className="text-foreground">Transparent tokenomics with no hidden allocations</p>
+                <img 
+                  src="/Star Of David.png" 
+                  alt="Star" 
+                  className="w-3 h-3 object-contain mt-2 flex-shrink-0"
+                />
+                <p className="text-foreground">XXXXXXXXXX XXXXXXXXXX XXXX XX XXXXXX XXXXXXXXXXX</p>
               </div>
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-accent rounded-full mt-3 flex-shrink-0"></div>
-                <p className="text-foreground">Strong focus on utility and real-world applications</p>
+                <img 
+                  src="/Star Of David.png" 
+                  alt="Star" 
+                  className="w-3 h-3 object-contain mt-2 flex-shrink-0"
+                />
+                <p className="text-foreground">XXXXXX XXXXX XX XXXXXXX XXX XXXX-XXXXX XXXXXXXXXXXX</p>
               </div>
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-accent rounded-full mt-3 flex-shrink-0"></div>
-                <p className="text-foreground">Experienced team with proven track record</p>
+                <img 
+                  src="/Star Of David.png" 
+                  alt="Star" 
+                  className="w-3 h-3 object-contain mt-2 flex-shrink-0"
+                />
+                <p className="text-foreground">XXXXXXXXXX XXXX XXXX XXXXXX XXXXX XXXXXX</p>
               </div>
             </div>
           </Card>
