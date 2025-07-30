@@ -172,13 +172,8 @@ All colors MUST be HSL.
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
 
-/* Apply handwritten font to regular text elements */
-p:not(.no-handwriting),
-.text-muted-foreground:not(.no-handwriting),
-.description-text,
-button:not(.no-handwriting),
-span:not(.no-handwriting),
-div:not(.no-handwriting) > span {
+/* Global handwritten font application */
+body, p, span, div, button, a, label, input, textarea {
   font-family: 'Kalam', cursive;
 }
 
@@ -188,18 +183,27 @@ div:not(.no-handwriting) > span {
   font-weight: 700;
 }
 
-/* Allow handwritten font for headers while keeping them bold */
+/* Apply handwritten font globally to everything */
+* {
+  font-family: 'Kalam', cursive;
+}
+
+/* Headers maintain hierarchy with bold weight and proper sizing */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Kalam', cursive;
   font-weight: 700;
 }
 
-/* Keep specific elements clean */
+/* Ensure all text elements use handwritten font */
 .text-primary,
 .font-bold,
-.font-black,
+.font-black {
+  font-family: 'Kalam', cursive;
+}
+
+/* Keep code elements readable */
 code {
-  font-family: inherit;
+  font-family: 'Courier New', monospace;
 }
 
 /* Header brand styling */

@@ -30,7 +30,7 @@ const Hero = () => {
           $PENGJEW
         </h1>
         
-        <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed handwritten-text">
+        <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
           I found a broken ATM and took it as a sign from above now I'm waddling in cash and blessings
         </p>
         
