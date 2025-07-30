@@ -15,14 +15,16 @@ const About = () => {
           <div>
             <h3 className="text-3xl font-bold text-primary mb-6">The Origin Story</h3>
             <p className="text-lg text-foreground mb-6 leading-relaxed">
-              XX XXX XXXXXX XXXXXX XX XXX XXXXXX XXXXXX, XXXXXXX XXXXXXX XX X XXXXXX XX XXXX. 
-              XXXX XXXX XXX XXXXXXXXXX XXXXXX XXX XXXXXXXXX XXXXX, XXXXXXXXX, XXX XXXXXXXXX XXX, 
-              XXXXXXX XXXXXXXXXX XXX XXXXXXX XXXXXX XX XXXX XXXXXXX XXX XXXXXXX XXXXXXXXXX XXXXXXXXXX.
+              Born from a community tired of rug pulls and gefilte coin knockoffs, PENGJEW is here to schlep us all to the promised land of memes and meaningful blockchain tech.
             </p>
             <p className="text-lg text-foreground mb-6 leading-relaxed">
-              XXX XXXXXXX XX XXXXXX: XXXXXX X XXXXXXXXXXX XXXXXXXXX XXXXX XXXXXXX XXX XXXXXX, 
-              XXXXX, XXX XXXXX XXXXXXX XXXXXX XXXXXXXX. XX XXXXXXX XX XXXXXXXXXXXX, XXXXXXXXX XXXXXXXXXX, 
-              XXX XXX XXXXX XX XXXXXXXXXX XXXXXXX XXXXXX.
+              PENGJEW isn't just another token it's a mishpacha (family). We value tradition: transparency, community governance, and the kind of communal warmth you only find at a Shabbat dinner table. Except this table is on the blockchain… and everyone's invited.
+            </p>
+            <p className="text-lg text-foreground mb-6 leading-relaxed">
+              So whether you're here for the crypto, the culture, or just the free bagels (airdrop pending), know this: with enough penguin power and a little chutzpah, we're building something worth believing in.
+            </p>
+            <p className="text-lg text-foreground mb-6 leading-relaxed font-semibold">
+              L'chaim and let's moon, already. 🐧
             </p>
           </div>
 
